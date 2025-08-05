@@ -1,0 +1,23 @@
+# OS별 불필요 파일
+.DS_Store
+Thumbs.db
+
+# VS Code 설정 폴더
+.vscode/
+
+# 컴파일 결과물
+*.o
+*.out
+*.exe
+*.obj
+
+# 백업, 임시 파일
+*~
+*.tmp
+*.swp
+
+# 로그 파일
+*.log
+
+# 기타
+tags
