@@ -1,0 +1,7 @@
+README.md
+creat.c
+list.txt
+open.c
+output.txt
+template.c
+test1.txt
